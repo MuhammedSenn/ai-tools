@@ -123,12 +123,6 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Mintlify](https://mintlify.com/)** - AI-powered documentation generator that automatically creates documentation from code.
 - **[Continue.dev](https://www.continue.dev/)** - Open-source AI coding assistant for VS Code and JetBrains, enabling local or cloud model integration for code generation and refactoring.
 - **[Windsurf](https://windsurf.com/)** - AI-first IDE that provides intelligent coding suggestions, project-wide reasoning, and automated code improvements.
-- **[Bolt.new](https://bolt.new/)** - Prompt-to-fullstack application builder for rapid prototyping.
-- **[Base44](https://base44.com/)** - AI-powered no-code / low-code platform for SaaS and internal tools.
-- **[21st.dev](https://21st.dev/community/components)** - Community-driven AI UI component library.
-- **[ReactBits](https://reactbits.dev/)** - Reusable and optimized React components.
-- **[Antigravity](https://antigravity.google/)** - Experimental AI developer platform by Google.
-- **[Google AI Studio](https://aistudio.google.com)** - Official platform for experimenting with Gemini models and prompts.
 
 ### 6-Text Analysis, Text Generation, Summarization  
 
@@ -143,7 +137,6 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Jasper](https://www.jasper.ai/)** - AI content platform for creating marketing copy, blog posts, and other professional content.
 - **[Rytr](https://rytr.me/)** - AI writing assistant that helps create high-quality content for various purposes.
 - **[Copy.ai](https://www.copy.ai/)** - AI copywriting tool that generates marketing copy, emails, and social media content.
-- **[Instantly AI](https://instantly.ai/)** - AI-powered cold email and outreach automation platform.
 
 ### 7-Finance and Business World  
 
@@ -176,13 +169,16 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 ### 9-Automation & Workflow Integration
 
 - **[n8n](https://n8n.io/)** - Open-source workflow automation platform.
-- **[Make](https://www.make.com/)** - Visual automation builder for complex workflows.
+- **[Make](https://www.make.com/en)** - Visual automation builder for complex workflows.
 - **[Zapier](https://zapier.com/)** - Application integration and automation platform.
+- **[Instantly AI](https://instantly.ai/)** - AI-powered cold email and outreach automation platform.
 
 ---
 
 ### 10-AI Website & App Builders
 
+- **[Bolt.new](https://bolt.new/)** - Prompt-to-fullstack application builder for rapid prototyping.
+- **[Base44](https://base44.com/)** - AI-powered no-code / low-code platform for SaaS and internal tools.
 - **[Stitch](https://stitch.withgoogle.com/)** - AI-powered product prototyping tool by Google.
 - **[Hostinger Horizons](https://www.hostinger.com/tr/horizons)** - AI-powered website and application builder.
 
