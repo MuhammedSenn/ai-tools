@@ -10,6 +10,8 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - [Text Analysis, Text Generation, Summarization](#6-text-analysis-text-generation-summarization)
 - [Finance and Business World](#7-finance-and-business-world)
 - [Cybersecurity](#8-cybersecurity)
+- [Automation & Workflow Integration](#9-automation--workflow-integration)
+- [AI Website & App Builders](#10-ai-website--app-builders)
 ---
 ### 1-Chatbots
 
@@ -70,6 +72,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Kapwing](https://www.kapwing.com/)** - Online video editor with AI-powered features for content creators.
 - **[Lumen5](https://lumen5.com/)** - AI video creation platform that transforms articles and blog posts into video content.
 - **[Kaiber AI](https://www.kaiber.ai/superstudio)** – AI tool for turning text into videos and animations.
+- **[fal.ai](https://fal.ai/)** - High-performance AI inference platform for image, video, and audio generation with ultra-low latency.
 
 ### 4-Audio & Music Generation
 
@@ -120,6 +123,12 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Mintlify](https://mintlify.com/)** - AI-powered documentation generator that automatically creates documentation from code.
 - **[Continue.dev](https://www.continue.dev/)** - Open-source AI coding assistant for VS Code and JetBrains, enabling local or cloud model integration for code generation and refactoring.
 - **[Windsurf](https://windsurf.com/)** - AI-first IDE that provides intelligent coding suggestions, project-wide reasoning, and automated code improvements.
+- **[Bolt.new](https://bolt.new/)** - Prompt-to-fullstack application builder for rapid prototyping.
+- **[Base44](https://base44.com/)** - AI-powered no-code / low-code platform for SaaS and internal tools.
+- **[21st.dev](https://21st.dev/community/components)** - Community-driven AI UI component library.
+- **[ReactBits](https://reactbits.dev/)** - Reusable and optimized React components.
+- **[Antigravity](https://antigravity.google/)** - Experimental AI developer platform by Google.
+- **[Google AI Studio](https://aistudio.google.com)** - Official platform for experimenting with Gemini models and prompts.
 
 ### 6-Text Analysis, Text Generation, Summarization  
 
@@ -134,6 +143,7 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[Jasper](https://www.jasper.ai/)** - AI content platform for creating marketing copy, blog posts, and other professional content.
 - **[Rytr](https://rytr.me/)** - AI writing assistant that helps create high-quality content for various purposes.
 - **[Copy.ai](https://www.copy.ai/)** - AI copywriting tool that generates marketing copy, emails, and social media content.
+- **[Instantly AI](https://instantly.ai/)** - AI-powered cold email and outreach automation platform.
 
 ### 7-Finance and Business World  
 
@@ -162,3 +172,17 @@ Welcome to AI Tools, a curated collection of cutting-edge AI-powered application
 - **[CrowdStrike](https://www.crowdstrike.com/)** - Cloud-native endpoint protection platform using AI to detect and prevent security breaches.
 - **[Cybereason](https://www.cybereason.com/)** - AI-powered endpoint detection and response platform that provides visibility into security threats.
 - **[Deep Instinct](https://www.deepinstinct.com/)** - Deep learning cybersecurity platform that prevents unknown and zero-day threats in real-time.
+
+### 9-Automation & Workflow Integration
+
+- **[n8n](https://n8n.io/)** - Open-source workflow automation platform.
+- **[Make](https://www.make.com/)** - Visual automation builder for complex workflows.
+- **[Zapier](https://zapier.com/)** - Application integration and automation platform.
+
+---
+
+### 10-AI Website & App Builders
+
+- **[Stitch](https://stitch.withgoogle.com/)** - AI-powered product prototyping tool by Google.
+- **[Hostinger Horizons](https://www.hostinger.com/tr/horizons)** - AI-powered website and application builder.
+
